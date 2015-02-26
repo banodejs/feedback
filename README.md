@@ -1,5 +1,5 @@
 # feedback
-Espacio para que nos dejes tus comentarios. Sí, vos, que estás ahí.
+Espacio para que nos dejes tus comentarios. Sí, vos, que tajaí.
 
 ## Código de Conducta
 Encontralo [acá][1].
